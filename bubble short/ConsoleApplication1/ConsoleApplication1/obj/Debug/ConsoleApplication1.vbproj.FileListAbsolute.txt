@@ -1,0 +1,9 @@
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
