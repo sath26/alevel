@@ -1,9 +1,0 @@
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\obj\Debug\ResolveAssemblyReference.cache
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\obj\Debug\ConsoleApplication2.Resources.resources
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbproj.GenerateResource.Cache
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\obj\Debug\ConsoleApplication2.xml
-F:\alevel\cs vb\mj 16 21 6\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
