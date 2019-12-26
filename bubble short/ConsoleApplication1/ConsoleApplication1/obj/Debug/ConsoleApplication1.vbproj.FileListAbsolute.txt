@@ -7,3 +7,6 @@ F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\bin\Debug\C
 F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
 F:\alevel\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\alevel practical\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\alevel practical\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+F:\alevel practical\cs vb\bubble short\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
