@@ -1,2 +1,15 @@
+*.pdb
 *.sln
 *.suo
+*.exe
+*.settings
+*.vbproj
+*.xml
+*.resources
+*.myapp
+*.resx
+*.cache
+*.designer.vb
+*manifest
+*.txt
+*AssemblyInfo.vb
